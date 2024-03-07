@@ -19,7 +19,7 @@ The $BURN project is designed to combat inflation, enhance token utility, stabil
 
 ### Tokenomics
 
-There will be a fixed total supply of 1,000,000,000 tokens. 100% of the supply will be launched in the Uniswap V2 liquidity pool to promote fair launch.
+There will be a fixed total supply of 1,000,000,000 tokens. 50% of the supply will be launched in the Uniswap V2 liquidity pool to promote fair launch. Remaining 50% will be burned!!!
 
 ### Tax Structure
 
