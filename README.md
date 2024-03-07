@@ -45,4 +45,4 @@ This tax will be split equally as follows:
 - 1% Marketing Wallet
 
 ### Anti-whale Mechanism
-To promote longevity and fair distribution, we will tax 15% on any buy equal or greater than 1% of the supply and tax 50% on any sell equal or greater than 1% of the supply. There will be 25% tax on any sell equal or greater than .75% of the total supply.
+To promote longevity and fair distribution, we will tax 15% on any buy equal or greater than .5% (500,000 $BURN) of the total supply and tax 50% on any sell equal or greater than 1% (1,000,000 $BURN) of the total supply. There will be 40% tax on any sell equal or greater than .5% (500,000 $BURN) of the total supply.
