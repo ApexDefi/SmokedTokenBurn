@@ -19,7 +19,7 @@ The $BURN project is designed to combat inflation, enhance token utility, stabil
 
 ### Tokenomics
 
-There will be a fixed total supply of 1,000,000,000 tokens. 50% of the supply will be launched in the Uniswap V2 liquidity pool to promote fair launch. Remaining 50% will be burned!!!
+There will be a fixed total supply of 1,000,000,000 tokens. 50% of the supply will be launched in the Uniswap V2 liquidity pool to promote fair launch. Remaining 49% will be burned!!! 1% will be used for giveaways.
 
 ### Tax Structure
 
@@ -43,4 +43,4 @@ This tax will be split equally as follows:
 - 1% Marketing Wallet
 
 ### Anti-whale Mechanism
-To promote longevity and fair distribution, we will tax 15% on any buy equal or greater than .5% (500,000 $BURN) of the total supply and tax 50% on any sell equal or greater than 1% (1,000,000 $BURN) of the total supply. There will be 40% tax on any sell equal or greater than .5% (500,000 $BURN) of the total supply.
+To promote longevity and fair distribution, we will tax 15% on any buy equal or greater than 1% (10,000,000 $BURN) of the total supply and tax 50% on any sell equal or greater than 1% (10,000,000 $BURN) of the total supply. There will be 40% tax on any sell equal or greater than .5% (5,000,000 $BURN) of the total supply.
