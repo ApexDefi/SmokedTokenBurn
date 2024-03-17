@@ -1,6 +1,6 @@
 /**
         Smoked Token Burn - $BURN
-        Brett wants to give back to the community with reflection tokens!
+
         Telegram: https://t.me/SmokedTokenBurn
         Twitter: https://twitter.com/SmokeTokenBurn
         Website: https://SmokedTokenBurn.com
