@@ -366,13 +366,11 @@ contract SmokedTokenBurn is Context, IERC20, IERC20Metadata, Ownable {
     uint256 private _initialMarketingBuyTax = 1350;
     uint256 private _antiWhaleBuyTax = 1450;
     uint256 private _buyCount = 0;
-    uint256 public buyTax; // Final 3%
 
     uint256 private _marketingSellTax = 150;
     uint256 private _initialMarketingSellTax = 1350;
     uint256 private _antiWhaleSellTax = 1450;
     uint256 private _sellCount = 0;
-    uint256 public sellTax;
     uint256 public taxFee = 150; // 200 => 2%
     uint256 public totalFees;
     uint256 public marketingBalance = 0;
