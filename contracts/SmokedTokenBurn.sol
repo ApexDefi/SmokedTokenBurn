@@ -401,10 +401,10 @@ contract SmokedTokenBurn is Context, IERC20, IERC20Metadata, Ownable {
         _name = 'Smoked Token Burn';
         _symbol = 'BURN';
         _tTotalSupply = 1000000000 * 10 ** decimals();
-        marketingWallet = address(0xE48d3400e3595A3cF94762DEbD1baEC8Bde5A305);
-        communityWallet = address(0xEDd54D3c1e1D4eDdcB5b36025d2800eBc3DD9b15);
+        marketingWallet = address(0x5BC05951cF89B8E95FBC5CB0Fb54c2B5B5eA3bc5);
+        communityWallet = address(0xaFD308eeb212140C87d43151546b83Db72872fFE);
         uniswapV2Router = IUniswapV2Router02(
-            0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+            0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D
         );
         _approve(address(this), address(uniswapV2Router), _tTotalSupply);
 
