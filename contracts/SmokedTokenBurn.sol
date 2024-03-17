@@ -400,8 +400,8 @@ contract Safumoon is Context, IERC20, IERC20Metadata, Ownable {
     event SetAutomatedMarketMakerPair(address indexed pair, bool indexed value);
 
     constructor() {
-        _name = 'Safumoon';
-        _symbol = 'SAFU';
+        _name = 'Smoked Token Burn';
+        _symbol = 'BURN';
         _tTotalSupply = 1000000000 * 10 ** decimals();
         marketingWallet = address(0xE48d3400e3595A3cF94762DEbD1baEC8Bde5A305);
         communityWallet = address(0xEDd54D3c1e1D4eDdcB5b36025d2800eBc3DD9b15);
