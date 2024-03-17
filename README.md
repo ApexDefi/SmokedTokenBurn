@@ -19,18 +19,17 @@ The $BURN project is designed to combat inflation, enhance token utility, stabil
 
 ### Tokenomics
 
-There will be a fixed total supply of 1,000,000,000 tokens. 50% of the supply will be launched in the Uniswap V2 liquidity pool to promote fair launch. Remaining 49% will be burned!!! 1% will be used for giveaways.
+There will be a fixed total supply of 1,000,000,000 tokens. 69% of the supply will be launched in the Uniswap V2 liquidity pool to promote fair launch. With the remaining 31%, most will be burned, some will be used for marketing, community, and as supply for other exchanges.
 
 ### Tax Structure
 
 #### Initial Tax Rates
 
-A 15% tax will be applied to both buy and sell transactions for the first 50 transactions.
+A 15% tax will be applied to both buy and sell transactions for the first 25/50 transactions.
 
 This tax will be split as follows:
-- 1% Redistribution to Current Holders
-- 1% Token Burn
-- 13% Marketing Wallet
+- 1.5% Redistribution to Current Holders - Includes the burn wallet for automatic burn.
+- 13.5% Marketing Wallet
 
 #### Transition to 3/3 Tax Structure:
 After the first 50 transactions, the tax structure will automatically switch to a 3/3 tax model.
@@ -38,9 +37,8 @@ After the first 50 transactions, the tax structure will automatically switch to 
 Under this model, a 3% tax will be applied to both buy and sell transactions.
 
 This tax will be split equally as follows:
-- 1% Redistribution to Current Holders
-- 1% Token Burn
-- 1% Marketing Wallet
+- 1.5% Redistribution to Current Holders
+- 1.5% Marketing Wallet
 
 ### Anti-whale Mechanism
-To promote longevity and fair distribution, we will tax 15% on any buy equal or greater than 1% (10,000,000 $BURN) of the total supply and tax 50% on any sell equal or greater than 1% (10,000,000 $BURN) of the total supply. There will be 30% tax on any sell equal or greater than .5% (5,000,000 $BURN) of the total supply.
+To promote longevity and fair distribution, we will tax 16% on any buy/sell equal or greater than .9% (9,000,000 $BURN) of the total supply.
