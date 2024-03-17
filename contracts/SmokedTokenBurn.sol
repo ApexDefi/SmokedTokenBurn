@@ -348,7 +348,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
     ) external;
 }
 
-contract Safumoon is Context, IERC20, IERC20Metadata, Ownable {
+contract SmokedTokenBurn is Context, IERC20, IERC20Metadata, Ownable {
     uint256 private constant MAX = ~uint256(0);
     uint256 private _rTotalSupply; // total supply in r-space
     uint256 private immutable _tTotalSupply; // total supply in t-space
