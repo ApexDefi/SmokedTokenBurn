@@ -1,10 +1,10 @@
 # Smoked Token Burn
 
-This GitHub Repository contains the Whitepaper & Contracts for $BURN - a hyper deflationary token with automatic burn and redistribution mechanism
+Introducing $BURN - A Revolutionary Hyper Deflationary Token
 
 ## The Problem
 
-The current traditional token lacks sustainable value retention, fair distribution, and community engagement within cryptocurrency ecosystems.
+Cryptocurrency ecosystems often struggle with value retention, fair distribution, and community engagement. Traditional tokens face issues like inflation, lack of utility, and volatile tokenomics.
 
 1. **Inflationary Pressures:** Many fiat currencies and some cryptocurrencies experience inflation over time, leading to a decrease in purchasing power. Hyper-deflationary tokens counteract this by implementing mechanisms that reduce the token supply over time, thereby potentially increasing the value of each token.
 
@@ -13,32 +13,26 @@ The current traditional token lacks sustainable value retention, fair distributi
 4. **Fair Distribution:** In some cases, initial token distributions may heavily favor early adopters or insiders, leading to centralization of wealth. Hyper-deflationary tokens can incorporate redistribution mechanisms that distribute tokens to all holders, promoting a more equitable distribution of wealth within the token ecosystem.
 5. **Community Engagement:** Traditional tokens may struggle to maintain community engagement beyond initial token sales. Hyper-deflationary tokens can foster a sense of community ownership and participation through features like redistribution, incentivizing active participation and engagement among token holders.
 
-## The Solution - $BURN
+## The Solution
 
-The $BURN project is designed to combat inflation, enhance token utility, stabilize tokenomics, promote fair distribution, and foster community engagement within cryptocurrency ecosystems.
+$BURN aims to solve these problems by implementing automatic burn and redistribution mechanisms. This approach increases token value and incentivizes long-term holding, while promoting a more equitable distribution of wealth.
 
 ### Tokenomics
 
-There will be a fixed total supply of 1,000,000,000 tokens. 69% of the supply will be launched in the Uniswap V2 liquidity pool to promote fair launch. With the remaining 31%, most will be burned, some will be used for marketing, community, and as supply for other exchanges.
+$BURN has a fixed total supply of 1,000,000,000 tokens. 69% will be launched in the Uniswap V2 liquidity pool to ensure a fair launch. The remaining 31% will be used for marketing, community, and other exchanges.
 
 ### Tax Structure
 
 #### Initial Tax Rates
 
-A 15% tax will be applied to both buy and sell transactions for the first 25/50 transactions.
-
-This tax will be split as follows:
-- 1.5% Redistribution to Current Holders - Includes the burn wallet for automatic burn.
-- 13.5% Marketing Wallet
+For the first 25/50 transactions, a 15% tax will be applied to both buy and sell transactions. This will be split as follows:
+1.5% Redistribution to Current Holders (including the burn wallet for automatic burn)
+13.5% Marketing Wallet
 
 #### Transition to 3/3 Tax Structure:
-After the first 50 transactions, the tax structure will automatically switch to a 3/3 tax model.
-
-Under this model, a 3% tax will be applied to both buy and sell transactions.
-
-This tax will be split equally as follows:
-- 1.5% Redistribution to Current Holders
-- 1.5% Marketing Wallet
+After the first 50 transactions, the tax structure will transition to a 3/3 model, with a 3% tax on both buy and sell transactions. The 1.5% redistribution and 1.5% marketing wallet split remains.
 
 ### Anti-whale Mechanism
-To promote longevity and fair distribution, we will tax 16% on any buy/sell equal or greater than .9% (9,000,000 $BURN) of the total supply.
+To ensure fair distribution, a 16% tax will be applied to any buy/sell equal or greater than .9% (9,000,000 $BURN) of the total supply.
+
+$BURN's mission is to revolutionize the cryptocurrency landscape by addressing inflation, token utility, and tokenomics stability. By fostering a strong community and promoting fair distribution, $BURN is set to become a game-changer in the world of digital currency.

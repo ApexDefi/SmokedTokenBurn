@@ -1,6 +1,5 @@
 /**
         Smoked Token Burn - $BURN
-
         Telegram: https://t.me/SmokedTokenBurn
         Twitter: https://twitter.com/SmokedTokenBurn
         Website: https://SmokedTokenBurn.com
